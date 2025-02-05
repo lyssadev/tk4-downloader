@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TK4 Downloader Banner](https://your-banner-image-url.png)
+![TK4 Downloader Banner](https://media.discordapp.net/attachments/1242993159332565058/1336784608179650710/Screenshot_2025-02-05_19-07-24.png?ex=67a5112e&is=67a3bfae&hm=df66846dd09329ea98a6eef2015b6799f6cdbfb5a37005c6a8f508feeb43472e&=&format=webp&quality=lossless&width=693&height=380)
 
 [![Version](https://img.shields.io/badge/version-1.5.0-blue.svg?style=for-the-badge)](https://github.com/lyssadev/tk4-downloader)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
